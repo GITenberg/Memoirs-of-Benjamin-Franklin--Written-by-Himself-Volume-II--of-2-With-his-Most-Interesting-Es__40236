@@ -1,0 +1,35 @@
+_repo: Memoirs-of-Benjamin-Franklin--Written-by-Himself-Volume-II--of-2-With-his-Most-Interesting-Es__40236
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40236-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcsh 'Franklin, Benjamin, 1706-1790 -- Correspondence'
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcc 'E300'
+- !lcc 'PS'
+tableOfContents: Essays -- Letters -- Philosophical subjects.
+title: "Memoirs of Benjamin Franklin; Written by Himself. [Vol. 2 of 2]\r\nWith his\
+  \ Most Interesting Essays, Letters, and Miscellaneous Writings; Familiar, Moral,\
+  \ Political, Economical, and Philosophical, Selected with Care from All His Published\
+  \ Productions, and Comprising Whatever Is Most Entertaining and Valuable to the\
+  \ General Reader"
+url: http://www.gutenberg.org/ebooks/40236
